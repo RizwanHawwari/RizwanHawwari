@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Responsive CRUD Website<br>👯 I’m looking to collaborate on any Website with React Js<br>🤝 I’m looking for help with PHP Languange<br>🌱 I’m currently learning OOP PHP<br>💬 Ask me about PHP Program<br>⚡ Fun fact i love code especially Backend Programming Language
+🔭 I’m currently working on Portofolio Website<br>👯 I’m looking to collaborate on any Website with React Js<br>🤝 I’m looking for help with TypeScript<br>🌱 I’m currently learning Golang<br>💬 Ask me about React JS Program<br>⚡
 
 
 ## 🌐 Socials:
